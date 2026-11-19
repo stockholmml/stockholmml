@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hej, I'm StockholmML! 🇸🇪
 
-<!--
-**stockholmml/stockholmml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Exploring machine learning, one experiment at a time.**
 
-Here are some ideas to get you started:
+Interested in the intersection of data, algorithms, and practical software engineering. I enjoy understanding how things work, testing ideas, and turning small experiments into useful tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Areas of Interest
+
+- 🧠 **Machine Learning** — Models, evaluation, and practical applications
+- 📊 **Data Science** — Exploring datasets and finding meaningful patterns
+- 🐍 **Python** — Experimentation, automation, and data processing
+- 🤖 **Artificial Intelligence** — Neural networks, LLMs, and emerging research
+- 🌱 **Open Source** — Learning from and contributing to community projects
+
+### 🛠️ Technologies I'm Exploring
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 🌿 A Little About Me
+
+I believe that good machine learning starts with curiosity, careful experimentation, and a willingness to question assumptions.
+
+My GitHub is a space for exploring ideas, documenting what I learn, and sharing experiments along the way.
+
+Outside of code, I appreciate thoughtful design, Scandinavian simplicity, and a good cup of coffee. ☕
+
+---
+
+*Nyfikenhet driver lärandet.* — Curiosity drives learning.
+
+**Tack för att du tittade förbi!** 🇸🇪
